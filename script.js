@@ -1,5 +1,8 @@
 const messages = [
 "Te quiero muchisimo mi Genesi",
+    "Te adoro",
+    "Quiero que seas mia y solo mia",
+    "Kiss kiss",
 "🥰​",
 "Gracias por estar en mi vida",
 "​💖​​​​​",
@@ -62,5 +65,6 @@ bubble.remove();
 }, 8000);
 
 }
+
 
 setInterval(createTextBubble, 500);
